@@ -1,4 +1,4 @@
-# Franciacorta Vegegetation Index
+# Franciacorta Vegetation Index
 Google Earth Engine Apps for satellite monitoring of vineyard in the Franciacorta consortium area
 
 Questa applicazione permette di visualizzare diversi indici di vegetazione sui vigneti presenti all'interno dell'area Franciacorta DOCG. Al fine di permettere una più semplice identificazione della variabilità spaziale, i dati visualizzati fanno riferimento alla mediana dell'indice nell'intervallo temporale considerato.
