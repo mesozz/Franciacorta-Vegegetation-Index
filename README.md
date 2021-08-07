@@ -10,8 +10,6 @@ Questa applicazione permette di visualizzare diversi indici di vegetazione sui v
 - NDRE - Normalized Difference RedEdge Index
 
 ### Credits
-Developed by Marco Sozzi
-
-Credits to Harel Greenblatt, G. Pranuthi, and Y. Cohen
-
-Raw data obtained from Copernicus and Geoportale Regione Lombardia
+Developed by Marco Sozzi. 
+Credits to Harel Greenblatt, G. Pranuthi, and Y. Cohen. 
+Raw data obtained from Copernicus and Geoportale Regione Lombardia.
