@@ -9,5 +9,6 @@ NDVI - Normalized Difference Vegetation Index
 GNDVI - Green Normalized Difference Vegetation Index
 NDRE - Normalized Difference RedEdge Index
 
+###Credits
 Credits to Harel Greenblatt, G. Pranuthi, and Y. Cohen
 Raw data obtained from Copernicus and Geoportale Regione Lombardia
